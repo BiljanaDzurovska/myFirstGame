@@ -1,2 +1,5 @@
-#snake
+# snake
 this is my first game in java script...
+
+# biljana
+this is  my name...
